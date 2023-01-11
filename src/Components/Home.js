@@ -4,7 +4,7 @@ class Home extends Component {
   render() {
     return (
       <main>
-        <h1>Proyectos</h1>
+        <h1>Proyectos.</h1>
 
         <div class="card-group mx-3">
           <div class="card">
